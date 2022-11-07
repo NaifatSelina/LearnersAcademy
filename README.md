@@ -10,4 +10,11 @@
 
 -The admin will be able to view a class report which will show all the information about the class, for example, the list of students, subjects and teachers.
 
-su
+# Contents
+
+* [**Sprints Planning**](<#sprints-planning>)
+* [**Agile Development|Scrum**](<#agile-development-scrum>)
+* [Week 1](<#week-1>)
+* [Week 2](<#week-2>)
+* [**Flow Chart**](<#flow-chart>)
+* [**Core Concepts**](<#core-concepts>)
