@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="Add Readme file" />
+    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="create index.jsp file and create log in form for user">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,18 +20,39 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2H5bmicBPsORDyvhmuEGdPF8mD7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LearnersAcademy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LearnersAcademy" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +69,105 @@
       <option name="project" value="LOCAL" />
       <updated>1667819156403</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add text to Readme file">
+      <created>1667819481658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667819481658</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add text to Readme file">
+      <created>1667819547387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667819547387</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add summary paragraph to Readme file">
+      <created>1667820818564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667820818564</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add contents to Readme file">
+      <created>1667821948164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667821948165</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create LearnersAcademy.sql, create database and add table">
+      <created>1667823568272</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667823568272</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add user details to sql file">
+      <created>1667824992732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667824992732</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add values into table in LearnersAcademy.sql">
+      <created>1667825087921</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667825087921</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add class values into table in LearnersAcademy.sql">
+      <created>1667825182235</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667825182235</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add teacher values into table in LearnersAcademy.sql">
+      <created>1667825269439</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667825269439</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add student values into table in LearnersAcademy.sql">
+      <created>1667825379244</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667825379244</updated>
+    </task>
+    <task id="LOCAL-00012" summary="create and add code to pom.xml file">
+      <created>1667825475748</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667825475748</updated>
+    </task>
+    <task id="LOCAL-00013" summary="create a MANIFEST.MF file in the JAR file">
+      <created>1667826149415</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667826149415</updated>
+    </task>
+    <task id="LOCAL-00014" summary="create a web.xml file and relevant code">
+      <created>1667826300006</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667826300007</updated>
+    </task>
+    <task id="LOCAL-00015" summary="create index.jsp file and create log in form for user">
+      <created>1667826560693</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667826560693</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +183,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Readme file" />
+    <MESSAGE value="Add text to Readme file" />
+    <MESSAGE value="Add summary paragraph to Readme file" />
+    <MESSAGE value="Add contents to Readme file" />
+    <MESSAGE value="Create LearnersAcademy.sql, create database and add table" />
+    <MESSAGE value="add user details to sql file" />
+    <MESSAGE value="add values into table in LearnersAcademy.sql" />
+    <MESSAGE value="add class values into table in LearnersAcademy.sql" />
+    <MESSAGE value="add teacher values into table in LearnersAcademy.sql" />
+    <MESSAGE value="add student values into table in LearnersAcademy.sql" />
+    <MESSAGE value="create and add code to pom.xml file" />
+    <MESSAGE value="create a MANIFEST.MF file in the JAR file" />
+    <MESSAGE value="create a web.xml file and relevant code" />
+    <MESSAGE value="create index.jsp file and create log in form for user" />
+    <option name="LAST_COMMIT_MESSAGE" value="create index.jsp file and create log in form for user" />
   </component>
 </project>
