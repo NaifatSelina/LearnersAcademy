@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="create index.jsp file and create log in form for user">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="add grade form html to jsp file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +164,49 @@
       <option name="project" value="LOCAL" />
       <updated>1667826560693</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="create error.jsp file and create error message">
+      <created>1667826706005</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667826706005</updated>
+    </task>
+    <task id="LOCAL-00017" summary="create error.jsp file and create error message">
+      <created>1667826724651</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667826724651</updated>
+    </task>
+    <task id="LOCAL-00018" summary="create error.jsp file and create error message">
+      <created>1667826733817</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667826733817</updated>
+    </task>
+    <task id="LOCAL-00019" summary="create error.jsp file and create error message">
+      <created>1667826755530</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667826755530</updated>
+    </task>
+    <task id="LOCAL-00020" summary="create all jsp files needed in webapp directory">
+      <created>1667826850247</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667826850247</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add grade form html to jsp file">
+      <created>1667827259672</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667827259673</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +235,9 @@
     <MESSAGE value="create a MANIFEST.MF file in the JAR file" />
     <MESSAGE value="create a web.xml file and relevant code" />
     <MESSAGE value="create index.jsp file and create log in form for user" />
-    <option name="LAST_COMMIT_MESSAGE" value="create index.jsp file and create log in form for user" />
+    <MESSAGE value="create error.jsp file and create error message" />
+    <MESSAGE value="create all jsp files needed in webapp directory" />
+    <MESSAGE value="add grade form html to jsp file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add grade form html to jsp file" />
   </component>
 </project>
