@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="move HibernateUtil.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="add java classes to update, delete and get student details">
+      <change beforePath="$PROJECT_DIR$/src/java/com/learner/database/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/learner/database/StudentDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +255,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667827957698</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add java files to learner directory">
+      <created>1667828516085</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1667828516085</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add java classes to update, delete and get user details">
+      <created>1667828699440</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1667828699440</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add java classes to update, delete and get student details">
+      <created>1667828740659</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1667828740659</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +291,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Readme file" />
     <MESSAGE value="Add text to Readme file" />
     <MESSAGE value="Add summary paragraph to Readme file" />
     <MESSAGE value="Add contents to Readme file" />
@@ -293,6 +313,9 @@
     <MESSAGE value="create form to add a new teacher to teacher form to jsp file" />
     <MESSAGE value="create hiberate file to provide simple APIs to store and receive java objects" />
     <MESSAGE value="move HibernateUtil.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="move HibernateUtil.java" />
+    <MESSAGE value="add java files to learner directory" />
+    <MESSAGE value="add java classes to update, delete and get user details" />
+    <MESSAGE value="add java classes to update, delete and get student details" />
+    <option name="LAST_COMMIT_MESSAGE" value="add java classes to update, delete and get student details" />
   </component>
 </project>
