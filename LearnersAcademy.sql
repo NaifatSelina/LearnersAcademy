@@ -12,4 +12,14 @@ values('admin','admin');
 insert into user(username, password)
 values('naifat','password');
 
+insert into grade(name)
+values('FullStack Java');
+insert into grade(name)
+values('Operating System');
+insert into grade(name)
+values('Machine Learning');
+insert into grade(name)
+values('Artificial Intelligence');
+insert into grade(name)
+values('Dev Ops');
 
