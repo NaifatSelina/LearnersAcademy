@@ -92,6 +92,16 @@ INSERT INTO teacher (id, name, classId) VALUES (5, 'Alfie', 3);
 INSERT INTO teacher (id, name, classId) VALUES (6, 'Jackie', 4);
 INSERT INTO teacher (id, name, classId) VALUES (7, 'Mohana', 5);
 
-
+-- Students
+INSERT INTO student (id, name, classId) VALUES (1, 'Sophie', 1);
+INSERT INTO student (id, name, classId) VALUES (2, 'Alvin', 1);
+INSERT INTO student (id, name, classId) VALUES (3, 'Theo', 2);
+INSERT INTO student (id, name, classId) VALUES (4, 'Brit', 2);
+INSERT INTO student (id, name, classId) VALUES (5, 'Jenny', 3);
+INSERT INTO student (id, name, classId) VALUES (6, 'Ellie', 3);
+INSERT INTO student (id, name, classId) VALUES (7, 'Stuart', 4);
+INSERT INTO student (id, name, classId) VALUES (8, 'Johnny', 4);
+INSERT INTO student (id, name, classId) VALUES (9, 'Robbie', 5);
+INSERT INTO student (id, name, classId) VALUES (10, 'Rachel', 5);
 
 
