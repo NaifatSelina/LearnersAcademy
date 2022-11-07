@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="add grade form html to jsp file" />
+    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="create form to add a new teacher to teacher form to jsp file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +206,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667827259673</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add home html to jsp file, adding tables to display database information">
+      <created>1667827364727</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667827364728</updated>
+    </task>
+    <task id="LOCAL-00023" summary="create form to add a new student to student form to jsp file">
+      <created>1667827432064</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667827432064</updated>
+    </task>
+    <task id="LOCAL-00024" summary="create form to add a new subject to subject form to jsp file">
+      <created>1667827519325</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667827519325</updated>
+    </task>
+    <task id="LOCAL-00025" summary="create form to add a new teacher to teacher form to jsp file">
+      <created>1667827584775</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1667827584775</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +266,10 @@
     <MESSAGE value="create error.jsp file and create error message" />
     <MESSAGE value="create all jsp files needed in webapp directory" />
     <MESSAGE value="add grade form html to jsp file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add grade form html to jsp file" />
+    <MESSAGE value="add home html to jsp file, adding tables to display database information" />
+    <MESSAGE value="create form to add a new student to student form to jsp file" />
+    <MESSAGE value="create form to add a new subject to subject form to jsp file" />
+    <MESSAGE value="create form to add a new teacher to teacher form to jsp file" />
+    <option name="LAST_COMMIT_MESSAGE" value="create form to add a new teacher to teacher form to jsp file" />
   </component>
 </project>
