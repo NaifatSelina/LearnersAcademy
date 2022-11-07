@@ -83,4 +83,15 @@ values('Continuous deployment', 5);
 insert into subject(name, classId)
 values('Continuous monitoring', 5);
 
+-- Teachers
+INSERT INTO teacher (id, name, classId) VALUES (1, 'Walsh', 1);
+INSERT INTO teacher (id, name, classId) VALUES (2, 'Atkinson', 1);
+INSERT INTO teacher (id, name, classId) VALUES (3, 'Jeffery', 2);
+INSERT INTO teacher (id, name, classId) VALUES (4, 'Lincoln', 2);
+INSERT INTO teacher (id, name, classId) VALUES (5, 'Alfie', 3);
+INSERT INTO teacher (id, name, classId) VALUES (6, 'Jackie', 4);
+INSERT INTO teacher (id, name, classId) VALUES (7, 'Mohana', 5);
+
+
+
 
