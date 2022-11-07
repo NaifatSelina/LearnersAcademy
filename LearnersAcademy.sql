@@ -1,5 +1,5 @@
-create database learners-academy;
-use learners-academy;
+create database learnersacademy;
+use learnersacademy;
 
 CREATE TABLE user (username VARCHAR(100), password VARCHAR(100));
 CREATE TABLE grade (name VARCHAR(100));

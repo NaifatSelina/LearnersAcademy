@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="add Servlet implementation class GradeServlet, to GradeServlet.java" />
+    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="create ControllerServlet.java This servlet acts as a page controller for the application, handling all requests from the teacher.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnersAcademy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnersAcademy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnersAcademy.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LearnersAcademy.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -28,13 +39,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/java/com" />
@@ -330,7 +341,49 @@
       <option name="project" value="LOCAL" />
       <updated>1667829389087</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="add Servlet implementation class LearnersApp to LearnersApp.java">
+      <created>1667829432383</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829432384</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add Servlet implementation class LoginServlet to LoginServlet.java">
+      <created>1667829496512</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829496512</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add Servlet implementation class LogoutServlet to LogoutServlet.java">
+      <created>1667829533953</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829533953</updated>
+    </task>
+    <task id="LOCAL-00042" summary="create ControllerServlet.java This servlet acts as a page controller for the application, handling all requests from the student.">
+      <created>1667829579837</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829579837</updated>
+    </task>
+    <task id="LOCAL-00043" summary="create ControllerServlet.java This servlet acts as a page controller for the application, handling all requests from the subject.">
+      <created>1667829624224</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829624224</updated>
+    </task>
+    <task id="LOCAL-00044" summary="create ControllerServlet.java This servlet acts as a page controller for the application, handling all requests from the teacher.">
+      <created>1667829664024</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829664024</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,12 +398,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add teacher values into table in LearnersAcademy.sql" />
-    <MESSAGE value="add student values into table in LearnersAcademy.sql" />
-    <MESSAGE value="create and add code to pom.xml file" />
-    <MESSAGE value="create a MANIFEST.MF file in the JAR file" />
-    <MESSAGE value="create a web.xml file and relevant code" />
-    <MESSAGE value="create index.jsp file and create log in form for user" />
     <MESSAGE value="create error.jsp file and create error message" />
     <MESSAGE value="create all jsp files needed in webapp directory" />
     <MESSAGE value="add grade form html to jsp file" />
@@ -370,6 +417,12 @@
     <MESSAGE value="add java code to java files to model directory" />
     <MESSAGE value="add needed java files to learner directory" />
     <MESSAGE value="add Servlet implementation class GradeServlet, to GradeServlet.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Servlet implementation class GradeServlet, to GradeServlet.java" />
+    <MESSAGE value="add Servlet implementation class LearnersApp to LearnersApp.java" />
+    <MESSAGE value="add Servlet implementation class LoginServlet to LoginServlet.java" />
+    <MESSAGE value="add Servlet implementation class LogoutServlet to LogoutServlet.java" />
+    <MESSAGE value="create ControllerServlet.java This servlet acts as a page controller for the application, handling all requests from the student." />
+    <MESSAGE value="create ControllerServlet.java This servlet acts as a page controller for the application, handling all requests from the subject." />
+    <MESSAGE value="create ControllerServlet.java This servlet acts as a page controller for the application, handling all requests from the teacher." />
+    <option name="LAST_COMMIT_MESSAGE" value="create ControllerServlet.java This servlet acts as a page controller for the application, handling all requests from the teacher." />
   </component>
 </project>
