@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="add java files to model directory">
-      <change beforePath="$PROJECT_DIR$/src/java/com/learner/model/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/learner/model/Grade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/learner/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/learner/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/learner/model/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/learner/model/Subject.java" afterDir="false" />
-    </list>
+    <list default="true" id="87f3c2a2-8028-45f0-802a-bce854c0f15b" name="Changes" comment="add Servlet implementation class GradeServlet, to GradeServlet.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -313,7 +309,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667828974457</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add java code to java files to model directory">
+      <created>1667829103017</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829103017</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add needed java files to learner directory">
+      <created>1667829327902</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829327902</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add Servlet implementation class GradeServlet, to GradeServlet.java">
+      <created>1667829389086</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829389087</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,9 +345,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add user details to sql file" />
-    <MESSAGE value="add values into table in LearnersAcademy.sql" />
-    <MESSAGE value="add class values into table in LearnersAcademy.sql" />
     <MESSAGE value="add teacher values into table in LearnersAcademy.sql" />
     <MESSAGE value="add student values into table in LearnersAcademy.sql" />
     <MESSAGE value="create and add code to pom.xml file" />
@@ -353,6 +367,9 @@
     <MESSAGE value="add java classes to update, delete and get user details" />
     <MESSAGE value="add java classes to update, delete and get grade details" />
     <MESSAGE value="add java files to model directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="add java files to model directory" />
+    <MESSAGE value="add java code to java files to model directory" />
+    <MESSAGE value="add needed java files to learner directory" />
+    <MESSAGE value="add Servlet implementation class GradeServlet, to GradeServlet.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Servlet implementation class GradeServlet, to GradeServlet.java" />
   </component>
 </project>
