@@ -8,7 +8,7 @@
 </head>
 <body>
 	<center>
-		<h1>Error Has Occured</h1>
+		<h1>Error Has Occurred</h1>
 		<h2><%=exception.getMessage()%><br />
 		</h2>
 	</center>
